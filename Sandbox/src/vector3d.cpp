@@ -1,4 +1,4 @@
-#include "Vector3d.hpp"
+#include "vector3d.hpp"
 
 //  Basic Operators (Addition & Subtraction)
 Vector3d Vector3d::operator+(const Vector3d& other) const {
