@@ -1,2 +1,2 @@
 # Impulse
-Impulse Is an Orbital Mechanics Simulator Written in C++
+An ultra-high-performance, native C++ orbital mechanics and N-body physics simulation engine.
