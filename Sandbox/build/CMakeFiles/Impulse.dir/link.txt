@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Impulse.dir/objects.a
-"D:\WORK\C compiler\ucrt64\bin\ar.exe" qc CMakeFiles\Impulse.dir/objects.a @CMakeFiles\Impulse.dir\objects1.rsp
-"D:\WORK\C compiler\ucrt64\bin\c++.exe" -Wl,--whole-archive CMakeFiles\Impulse.dir/objects.a -Wl,--no-whole-archive -o Impulse.exe -Wl,--out-implib,libImpulse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Impulse.dir\linkLibs.rsp
